@@ -4,4 +4,4 @@ Análisis de las consecuencias de distintos contaminantes en los períodos de se
 En este repositorio se trabajan dos distintas bases de datos. Una por parte del Sistema Integral de Monitoreo Ambiental(SIMA) y otro de la Comisión Nacional del Agua (CONAGUA).
 
 Los resultados se presentan en el siguiente póster:
-![Póster de análisis](http://url/to/img.png)
+![Póster de análisis]([http://url/to/img.png](https://github.com/OscarUrenda/Analisis-de-metodos-multivariados/blob/main/Poster%20Cient%C3%ADfico%20Llamativo%20Moderno%20Rojo%20Blanco.png))
